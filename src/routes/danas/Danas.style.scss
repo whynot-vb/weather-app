@@ -1,0 +1,23 @@
+#sekcija {
+  max-width: 660px;
+}
+
+.container.trenutni-podaci {
+  max-width: "680px";
+  min-width: 560px;
+  background-color: white;
+  max-height: 440px;
+  font-family: inherit;
+  margin-top: 20px;
+  border: 1px solid black;
+}
+
+.verovatnoca-kise {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+.adresa-text {
+  font-size: 2rem;
+  font-weight: bold;
+}
